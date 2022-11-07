@@ -1,6 +1,6 @@
 {
   "name": "air_bnb",
-  "version": "0.1.0",
+  "version": "1",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
@@ -34,5 +34,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "cloned version of airbnb",
+  "main": "index.js",
+  "repository": "https://github.com/jahrulezfrancis/Air-BNB.git",
+  "author": "jahrulezfrancis <longsaarmuknaan@gmail.com>",
+  "license": "MIT"
 }
