@@ -1,0 +1,13 @@
+.card1{
+    display: flex;
+} 
+
+.card1{
+    display: flex;
+} 
+
+.topSection{
+    display: flex;
+    flex-direction: row;
+    padding: 15px;
+}
